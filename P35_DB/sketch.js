@@ -4,8 +4,8 @@ var position;
 
 
 function preload(){
-  bg = loadImage('pro-C35 images/Hot Air Ballon-01.png')
-  balloonImg = loadImage('pro-C35 images/Hot Air Ballon-02.png')
+  bg = loadImage('images/Hot Air Ballon-01.png')
+  balloonImg = loadImage('images/Hot Air Ballon-02.png')
 }
 function setup(){
   createCanvas(1400,900);
